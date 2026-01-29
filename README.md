@@ -7,7 +7,9 @@ respuesta personalizada a cada usuario.
 
 # 🔬Tecnologias Utlilizadas⚗️
 -⛓️Lenguajes: HTML y CSS.
+
 -⚒️Herramientas/framework: Ninguno
+
 -📰Entorno o IDE:Visual Studio Code.
 
 # 📷Imagen de la ejecucion del proyecto:
@@ -29,7 +31,7 @@ para poder abrir el proyecto necesitaras que te comparta el link del proyecto pe
 
 -🌍Año Escolar: 2025-2026.
 
-👩🏾‍🤝‍👩🏽Autores 🌸
+# 👩🏾‍🤝‍👩🏽Autores 🌸
 -Anyelina Yudith Cruz Baker.
 
 -Dilianna Alicia
